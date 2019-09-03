@@ -1,0 +1,21 @@
+body{
+  /* background-color: gray; */
+  background: url(http://pngriver.com/wp-content/uploads/2018/04/Download-Beach-PNG-Images.png);
+  background-repeat: no-repeat;
+}
+
+div{
+  background-color: blue;
+  border-color: orange;
+  border-width: 4px;
+  border-style: double;
+}
+
+p{
+  color: yellow;
+}
+
+span{
+  background-color: red;
+  color: black;
+}
